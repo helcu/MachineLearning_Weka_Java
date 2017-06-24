@@ -12,7 +12,7 @@
 @attribute sulphates numeric
 @attribute alcohol numeric
 @attribute R/W {R,W}
-@attribute quality numeric
+@attribute quality {0,1,2,3,4,5,6,7,8,9,10}
 
 @data
 7.4,0.29,0.5,1.8,0.042,35,127,0.9937,3.45,0.5,10.2,W,7
